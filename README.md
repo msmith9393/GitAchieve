@@ -108,4 +108,4 @@ For full details, see this [spreadsheet](https://docs.google.com/spreadsheets/d/
 
 ### Deployment
 - AWS EC2
-- Travis CI
+- Travis Continuous Integration
